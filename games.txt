@@ -1,0 +1,111 @@
+Elden Ring, RPG, PC, Digital, 2020, 2
+Cyberpunk 2077, RPG, PC, Physical, 2020, 5
+The Last of Us Part II, RPG, PlayStation, Digital, 2022, 3
+Animal Crossing: New Horizons, Simulation, PlayStation, Digital, 2018, 4
+Ghost of Tsushima, Adventure, PlayStation, Digital, 2020, 1
+Hades, Dungeon-Crawler, Xbox, Digital, 2021, 2
+Doom Eternal, Shooter, Xbox, Digital, 2021, 3
+Final Fantasy VII Remake, Adventure, PC, Digital, 2021, 4
+Genshin Impact, RPG, PlayStation, Digital, 2022, 5
+Among Us, Simulation, Xbox, Digital, 2018, 5
+Valorant, Shooter, Non-Platform, Digital, 2019, 4
+Call of Duty: Warzone, Shooter, Xbox, Digital, 2022, 3
+Assassin's Creed Valhalla, RPG, PC, Digital, 2022, 2
+Fall Guys: Ultimate Knockout, Platformer, Xbox, Digital, 2020, 1
+Spider-Man: Miles Morales, RPG, PlayStation, Digital, 2020, 1
+Resident Evil Village, Survival, PlayStation, Digital, 2022, 2
+Hitman 3, Shooter, PC, Physical, 2021, 3
+Ratchet & Clank: Rift Apart, Shooter, Non-Platform, Digital, 2022, 4
+Returnal, Survival, PlayStation, Digital, 2019, 5
+It Takes Two, Platformer, Xbox, Digital, 2021, 5
+Monster Hunter Rise, RPG, Xbox, Digital, 2019, 4
+Deathloop, Shooter, Xbox, Digital, 2022, 3
+Forza Horizon 5, Racing, PC, Digital, 2022, 2
+Halo Infinite, RPG, PlayStation, Digital, 2021, 1
+Psychonauts 2, Platformer, Xbox, Digital, 2022, 1
+FIFA 22, Simulation, Xbox, Digital, 2019, 2
+NBA 2K22, Simulation, Xbox, Digital, 2018, 5
+Back 4 Blood, Shooter, PlayStation, Digital, 2020, 3
+Far Cry 6, Shooter, Xbox, Digital, 2019, 4
+The Medium, Simulation, Xbox, Digital, 2018, 5
+Little Nightmares II, Adventure, PC, Digital, 2021, 1
+Mass Effect Legendary Edition, RPG, PlayStation, Digital, 2018, 2
+Kena: Bridge of Spirits, RPG, Xbox, Digital, 2019, 5
+Death's Door, Adventure, Xbox, Digital, 2018, 4
+Metroid Dread, Adventure, Nintendo, Digital, 2020, 5
+Guardians of the Galaxy, Adventure, Playstation, Digital, 2020, 1
+Tales of Arise, RPG, PlayStation, Digital, 2018, 2
+Life is Strange: True Colors, Adventure, PC, Digital, 2022, 3
+Nier Replicant, RPG, PC, Digital, 2020, 4
+Resident Evil 4, Survival, PlayStation, Digital, 2019, 5
+Lost Judgment, Aventure, Xbox, Digital, 2020, 4
+The Ascent, RPG, PC, Digital, 2022, 3
+Twelve Minutes, Simulation, PC, Digital, 2021, 2
+Chivalry 2, RPG, PC, Digital, 2021, 1
+Outriders, Adventure, PlayStation, Digital, 2021, 1
+New World, RPG, PC, Digital, 2022, 1
+Age of Empires IV, Simulation, PC, Digital, 2021, 2
+Diablo II: Resurrected, RPG, PC, Digital, 2022, 3
+Guilty Gear -Strive-, Fighter, Xbox, Digital, 2021, 4
+Bravely Default II, RPG, PC, Digital, 2022, 5
+No More Heroes 3, Adventure, Nintendo, Digital, 2019, 5
+Shin Megami Tensei V, RPG, Nintendo, Digital, 2022, 4
+Eastward, Adventure, Nintendo, Digital, 2022, 3
+Scarlet Nexus, RPG, PC, Digital, 2021, 2
+FIST: Forged In Shadow Torch, Platformer, PlayStation, Digital, 2021, 1
+WarioWare: Get It Together!, Platformer, Nintendo, Digital, 2018, 2
+The Great Ace Attorney Chronicles, Adventure, PC, Digital, 2021, 3
+Loop Hero, Card, PC, Digital, 2022, 4
+Axiom Verge 2, Adventure, Ninetendo, Digital, 2021, 5
+Dungeons & Dragons: Dark Alliance, RPG, PC, Digital, 2019, 4
+Biomutant, Shooter, Xbox, Digital, 2019, 3
+Death Stranding Director's Cut, RPG, PC, Digital, 2020, 2
+Mario Golf: Super Rush, Simulation, Xbox, Digital, 2021, 2
+Knockout City, RPG, Xbox, Digital, 2021, 1
+Riders Republic, RPG, PlayStation, Digital, 2022, 4
+Battlefield 2042, Adventure, Xbox, Digital, 2020, 5
+Pokemon Brilliant Diamond and Shining Pearl, Shooter, Xbox, Digital, 2019, 4
+Sable, Action, PlayStation, Digital, 2022, 5
+Solar Ash, Shooter, Non-Platform, Digital, 2021, 4
+Huntdown, Adventure, PC, Digital, 2021, 3
+The Artful Escape, Racing, PlayStation, Digital, 2019, 2
+Kaze and the Wild Masks, Simulation, PlayStation, Digital, 2020, 1
+Fights in Tight Spaces, Adventure, Xbox, Digital, 2022, 1
+Ender Lilies: Quietus of the Knights, Shooter, Xbox, Digital, 2019, 2
+Oddworld: Soulstorm, Simulation, PlayStation, Digital, 2021, 3
+Chicory: A Colorful Tale, Platformer, PC, Digital, 2018, 4
+Cruis'n Blast, Puzzle, PC, Digital, 2020, 5
+Before Your Eyes, Simulation, Xbox, Digital, 2021, 1
+Genesis Noir, Adventure, PlayStation, Digital, 2018, 2
+Inscryption, RPG, Non-Platform, Digital, 2020, 3
+Unpacking, Adventure, Xbox, Digital, 2018, 4
+TOEM, Puzzle, Non-Platform, Digital, 2020, 5
+Dorfromantik, Adventure, PC, Digital, 2022, 1
+The Forgotten City, Strategy, Xbox, Digital, 2018, 2
+Griftlands, Card Game, PC, Digital, 2021, 3
+NORCO, Shooter, Xbox, Digital, 2022, 4
+The Wild at Heart, Platformer, PlayStation, Digital, 2021, 5
+Minute of Islands, Racing, PC, Digital, 2018, 5
+Wildermyth, Adventure, PC, Digital, 2022, 4
+The Pathless, Simulation, Non-Platform, Digital, 2020, 3
+Paradise Killer, RPG, Xbox, Digital, 2022, 2
+Disco Elysium - The Final Cut, Puzzle, PC, Digital, 2021, 4
+Omno, Strategy, PlayStation, Digital, 2018, 3
+Cloudpunk, Card Game, PC, Digital, 2019, 2
+The Falconeer, Puzzle, Non-Platform, Digital, 2022, 1
+Spiritfarer, Simulation, Xbox, Digital, 2019, 2
+Maquette, Puzzle, PlayStation, Digital, 2021, 4
+Little Nightmares II, Card, PC, Digital, 2020, 5
+Magic the Gathering, Card, Non-Platform, Physical, 1993, 5
+Monopoly, Board, Non-Platform, Physical, 1935, 2
+Chutes and Ladders, Board, Non-Platform, Physical, 1892, 2
+Risk, Board, Non-Platform, Physical, 1957, 4
+Yu-Gi-Oh, Card, Non-Platform, Physical, 1998, 3
+The Game of Life, Board, Non-Platform, Physical, 1860, 2
+Catan, Board, Non-Platform, Physical, 1995, 4 
+Uno, Card, Non-Platform, Physical, 1971, 3
+Cards Againt Humanity, Card, Non-Platform, Physical, 2010, 4
+Apples to Apples, Card, Non-Platform, Physical, 1999, 2
+Clue, Board, Non-Platform, Physical, 1949, 3
+Pokemon, Card, Non-Platform, Physical, 1996, 4
+Pokemon Virtual, Simulation, Nintendo, Digital, 1998, 3
